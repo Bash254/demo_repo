@@ -1,4 +1,0 @@
-# DEMO
-Create!
-
-# DESCRIPTION
